@@ -15,5 +15,5 @@ npm install -g typescript
 ### ts-node
 
 ```
-npm install -d ts-node
+npm install -g ts-node
 ```
